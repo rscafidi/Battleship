@@ -1,0 +1,34 @@
+How many games to play? Test harness for Battle Ship game program.
+Author: Prof. Antos
+
+
+We will be playing 500 games.
+There are a total of 2 players competing
+***** Starting validation run *****
+
+Validating Richard Scafidi***** Validation run completed *****
+Now playing games (# == 100 games):#####
+
+***Status report for The Professor***
+  No errors encountered!
+***Status report for Richard Scafidi***
+  No errors encountered!
+
+
+HIT/ Sank / Win Results after 500 games
+=======================================
+                                Opponent
+Index   Player Name              0       1
+ 0 The Professor     hits:            7688
+ 0 The Professor     sank:            2184
+ 0 The Professor     wins:             263
+ 1 Richard Scafidi   hits:    7565        
+ 1 Richard Scafidi   sank:    2134        
+ 1 Richard Scafidi   wins:     221        
+
+Player summary statistics
+
+             Opponent #     hits    sank    wins   SCORE
+
+     Richard Scafidi( 1)    7565    2134     221   10804
+       The Professor( 0)    7688    2184     263   11187
