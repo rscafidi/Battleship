@@ -1,1 +1,2 @@
 # Battleship
+Battleship.h contains global constant variables.  Exercise11_v19.cpp is the source file containing my half of the program logic.  libBattleShip.a and libbssupl.a are necessary library files which run my functions.  game.txt is a sample result of 500 games.  To see the results, you must redirect the program output to a file.  The program first asks how many games to play.  Selecting any number greater than 1 will automatically play the games and then exit.
